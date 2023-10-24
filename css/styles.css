@@ -65,7 +65,6 @@ color: #434455;
 .page-header .container {
   display: flex;
   justify-content: space-between;  
-
 }
 
 .page-header {
@@ -76,26 +75,20 @@ color: #434455;
 .page-nav {
     display: flex;
     align-items: center;
-  
- }
+   }
 
 .menu {
     display: flex;
     justify-content: space-between;
     gap: 40px;
-    
-   }
+    }
 
-.menu-item {
-    /* padding: 24px 0; */
-}
 .address-menu {
     display: flex;
     justify-content: space-between;
     gap: 40px;  
     padding: 24px 0;
   }
-
 
 .logo { 
 font-family: Raleway, sans-serif;
@@ -122,17 +115,11 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:#2E2F42;
 display: block;
-
 }
 
 .menu-link:hover,
 .menu-link:focus {
     color: #404BBF;
-}
-
-.address {
-/* font-style: normal; */
-
 }
 
 .address-menu-link {
@@ -142,13 +129,7 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;  
 color: #434455;
- 
-}
-
-.address-menu-item {
-/* padding: 24px 0; */
-}
-
+ }
 
 .address-menu-link:hover,
 .address-menu-link:focus {
