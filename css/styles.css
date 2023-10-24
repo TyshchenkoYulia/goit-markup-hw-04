@@ -76,7 +76,7 @@ color: #434455;
 .page-nav {
     display: flex;
     align-items: center;
-    
+  
  }
 
 .menu {
@@ -87,16 +87,15 @@ color: #434455;
    }
 
 .menu-item {
-    padding: 24px 0;
+    /* padding: 24px 0; */
 }
 .address-menu {
     display: flex;
     justify-content: space-between;
-    gap: 40px;
-    padding-top: 24px;
-padding-bottom: 24px;
-   
+    gap: 40px;  
+    padding: 24px 0;
   }
+
 
 .logo { 
 font-family: Raleway, sans-serif;
@@ -107,8 +106,6 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 display: inline-block;
-/* padding-top: 25.5px;
-padding-bottom: 25.5px; */
 margin-right: 76px;
 }
 
@@ -125,7 +122,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:#2E2F42;
 display: block;
-padding: 24px 0;
+
 }
 
 .menu-link:hover,
@@ -134,7 +131,7 @@ padding: 24px 0;
 }
 
 .address {
-font-style: normal;
+/* font-style: normal; */
 
 }
 
@@ -147,6 +144,11 @@ letter-spacing: 0.02em;
 color: #434455;
  
 }
+
+.address-menu-item {
+/* padding: 24px 0; */
+}
+
 
 .address-menu-link:hover,
 .address-menu-link:focus {
