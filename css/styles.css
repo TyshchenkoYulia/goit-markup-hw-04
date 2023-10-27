@@ -472,6 +472,7 @@ transform: translateY(0%);
 .page-footer-content {
     display: flex;
   justify-content: space-between;
+ 
   
 }
 
